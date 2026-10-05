@@ -1,0 +1,6 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"> 
+  <modelVersion>4.0.0</modelVersion> 
+  <groupId>com.haeviy</groupId> 
+  <artifactId>matrix-library</artifactId> 
+  <version>1.0-SNAPSHOT</version> 
+</project>
